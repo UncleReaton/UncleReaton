@@ -1,2 +1,6 @@
-- 👋 Hi, I’m @UncleReaton
+- 👋 Hi, I’m [@UncleReaton](https://github.com/UncleReaton)
 - 👀 I’m on Github only to interact with projects I like that are here. Otherwise you can find me on [Gitlab](https://gitlab.com/UncleReaton)
+- 🐘 I'm on mastodon: [@reaton@mamot.fr](https://mamot.fr/@reaton)
+- 📷️ I'm on PixelFed: [@UncleReaton@pixelfed.social](https://pixelfed.social/UncleReaton)
+- 🌐 I have a blog: [hugo-mechiche.com](https://hugo-mechiche.com)
+- ♊️ I have a gemini capsule: [geminids.ga](gemini://geminids.ga)
