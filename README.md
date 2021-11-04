@@ -3,4 +3,4 @@
 - 🐘 I'm on mastodon: [@reaton@mamot.fr](https://mamot.fr/@reaton)
 - 📷️ I'm on PixelFed: [@UncleReaton@pixelfed.social](https://pixelfed.social/UncleReaton)
 - 🌐 I have a blog: [hugo-mechiche.com](https://hugo-mechiche.com)
-- ♊️ I have a gemini capsule: [geminids.ga](gemini://geminids.ga)
+- ♊️ I have a gemini capsule: [geminids.ga](https://portal.mozz.us/gemini/geminids.ga) (redirection to wwww portal)
