@@ -21,7 +21,7 @@ jobs:
     - name: Fetch TryHackMe Badge
       uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
       with:
-        image_path: './assets/tryhackme-badge.png'
+        image_path: './tryhackme-badge.png'
         username: 'UncleReaton'
         user_id: '1843778'
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
